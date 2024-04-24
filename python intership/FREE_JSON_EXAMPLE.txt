@@ -1,0 +1,1 @@
+{"name": "coder", "age": 21, "city": "bijapur", "has_college": false, "titles": ["coder", "programmer"]}
