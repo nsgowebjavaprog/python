@@ -1,0 +1,50 @@
+# 1
+'''
+age = int(input("Enter the age: "))
+
+if age > 18:
+    print("You are more than 18")
+else:
+    print("Child")    
+'''
+
+# 2
+'''
+age = int(input("Enter the age: "))
+
+if age > 18:
+    print("You are more than 18")
+elif age<0:
+    print("no....")
+else:
+    print("child")            
+'''
+
+# 3
+'''
+response = input("Would U like Game? [Y/N]")
+
+if response == "Y":
+    print("Come and Join Our Team") 
+else:
+    print("Play game")      
+'''    
+
+# 4
+'''
+name = input("Enter Ur name:")
+
+if name == "":
+    print("You did not enter the name:")
+else:
+    print(f"{name}")    
+'''
+
+# 5
+
+online = True
+
+if online:
+    print("S user in online")
+else:
+    print("User in Offline")        
