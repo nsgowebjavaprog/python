@@ -1,0 +1,2 @@
+Hello NS LONI
+w+ --> is read & write Both function
